@@ -1,0 +1,33 @@
+h1{ 
+    color: red;
+    font-family: 'Akaya Kanadaka', cursive;
+}
+
+body{
+
+    align-content: center;
+    text-align: center;
+    background-color: aqua;
+    color: red;
+}
+
+#links{
+
+    align-content: center;
+}
+
+p{
+    font-family: 'Akaya Kanadaka', cursive;
+    color: red;
+}
+
+h2{
+
+    font-family: 'Akaya Kanadaka', cursive;
+    color: red;
+}
+
+h5{
+    font-family: 'Akaya Kanadaka', cursive;
+    color: red;
+}
